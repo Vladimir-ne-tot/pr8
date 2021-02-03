@@ -1,0 +1,12 @@
+C:\Temp\ПКС-71\практические Садков\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Temp\ПКС-71\практические Садков\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Temp\ПКС-71\практические Садков\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Temp\ПКС-71\практические Садков\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Temp\ПКС-71\практические Садков\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Temp\ПКС-71\практические Садков\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Temp\ПКС-71\МДК.03.02 2021\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Temp\ПКС-71\МДК.03.02 2021\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Temp\ПКС-71\МДК.03.02 2021\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Temp\ПКС-71\МДК.03.02 2021\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Temp\ПКС-71\МДК.03.02 2021\пр1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Temp\ПКС-71\МДК.03.02 2021\пр1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
